@@ -1,0 +1,12 @@
+# Local audit results; never commit production evidence.
+WMIC-Audit/
+reports/
+WMIC-Report.html
+WMIC-Findings.csv
+WMIC-Grouped.csv
+Coverage.csv
+Errors.csv
+RecoveredDefinitions.csv
+Summary.json
+*.zip
+Thumbs.db
